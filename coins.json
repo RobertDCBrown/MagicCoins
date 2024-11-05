@@ -1,0 +1,31 @@
+{
+    "coins": [
+        {
+            "id": "1B88E6C9-E7F3-4B42-8A1E-D2C0A7F7E7A1",
+            "name": "Mickey Mouse Classic",
+            "description": "Classic Mickey Mouse pose with his signature wave",
+            "location": "Main Street USA - Emporium",
+            "chapter": "Characters",
+            "latitude": 28.418732,
+            "longitude": -81.581207
+        },
+        {
+            "id": "2A99F7D8-F8E4-5C53-9B2F-E3D1B8E8F8B2",
+            "name": "Cinderella Castle",
+            "description": "Iconic Cinderella Castle with fireworks",
+            "location": "Main Street USA - Castle Viewing Area",
+            "chapter": "Landmarks",
+            "latitude": 28.419411,
+            "longitude": -81.581216
+        },
+        {
+            "id": "3C00E8E7-F9F5-6D64-0C3F-F4E2C9F9F8C3",
+            "name": "Space Mountain",
+            "description": "Space Mountain rocket ship design",
+            "location": "Tomorrowland - Exit Gift Shop",
+            "chapter": "Attractions",
+            "latitude": 28.418923,
+            "longitude": -81.579321
+        }
+    ]
+} 
