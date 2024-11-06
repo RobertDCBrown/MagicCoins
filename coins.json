@@ -1,31 +1,88 @@
 {
-    "coins": [
+    "machines": [
         {
-            "id": "1B88E6C9-E7F3-4B42-8A1E-D2C0A7F7E7A1",
-            "name": "Mickey Mouse Classic",
-            "description": "Classic Mickey Mouse pose with his signature wave",
+            "id": "M001",
             "location": "Main Street USA - Emporium",
-            "chapter": "Characters",
             "latitude": 28.418732,
-            "longitude": -81.581207
+            "longitude": -81.581207,
+            "coins": [
+                {
+                    "id": "1B88E6C9-E7F3-4B42-8A1E-D2C0A7F7E7A1",
+                    "name": "Mickey Mouse Classic",
+                    "description": "Classic Mickey Mouse pose with his signature wave",
+                    "chapter": "Characters"
+                },
+                {
+                    "id": "1C99E7D8-E8F4-4C43-9B2F-E3D1B8E8F8B2",
+                    "name": "Minnie Mouse Bow",
+                    "description": "Minnie Mouse with her iconic bow",
+                    "chapter": "Characters"
+                },
+                {
+                    "id": "1D00E8E7-F9F5-4D44-0C3F-F4E2C9F9F8C3",
+                    "name": "Main Street Train Station",
+                    "description": "Walt Disney World Railroad Station",
+                    "chapter": "Landmarks"
+                }
+            ]
         },
         {
-            "id": "2A99F7D8-F8E4-5C53-9B2F-E3D1B8E8F8B2",
-            "name": "Cinderella Castle",
-            "description": "Iconic Cinderella Castle with fireworks",
-            "location": "Main Street USA - Castle Viewing Area",
-            "chapter": "Landmarks",
-            "latitude": 28.419411,
-            "longitude": -81.581216
-        },
-        {
-            "id": "3C00E8E7-F9F5-6D64-0C3F-F4E2C9F9F8C3",
-            "name": "Space Mountain",
-            "description": "Space Mountain rocket ship design",
-            "location": "Tomorrowland - Exit Gift Shop",
-            "chapter": "Attractions",
+            "id": "M002",
+            "location": "Tomorrowland - Space Mountain Exit",
             "latitude": 28.418923,
-            "longitude": -81.579321
+            "longitude": -81.579321,
+            "coins": [
+                {
+                    "id": "2A88E6C9-E7F3-4B42-8A1E-D2C0A7F7E7A1",
+                    "name": "Space Mountain",
+                    "description": "Space Mountain rocket ship design",
+                    "chapter": "Attractions"
+                },
+                {
+                    "id": "2B99E7D8-E8F4-4C43-9B2F-E3D1B8E8F8B2",
+                    "name": "TRON Lightcycle",
+                    "description": "TRON Lightcycle Power Run logo",
+                    "chapter": "Attractions"
+                },
+                {
+                    "id": "2C00E8E7-F9F5-4D44-0C3F-F4E2C9F9F8C3",
+                    "name": "Astro Orbiter",
+                    "description": "Astro Orbiter rockets in flight",
+                    "chapter": "Attractions"
+                },
+                {
+                    "id": "2D11F9F8-G0G6-5E55-1D4G-G5F3D0G0G9D4",
+                    "name": "Buzz Lightyear",
+                    "description": "Buzz Lightyear Space Ranger Spin",
+                    "chapter": "Characters"
+                }
+            ]
+        },
+        {
+            "id": "M003",
+            "location": "Fantasyland - Castle Courtyard",
+            "latitude": 28.419411,
+            "longitude": -81.581216,
+            "coins": [
+                {
+                    "id": "3A88E6C9-E7F3-4B42-8A1E-D2C0A7F7E7A1",
+                    "name": "Cinderella Castle",
+                    "description": "Iconic Cinderella Castle with fireworks",
+                    "chapter": "Landmarks"
+                },
+                {
+                    "id": "3B99E7D8-E8F4-4C43-9B2F-E3D1B8E8F8B2",
+                    "name": "Prince Charming",
+                    "description": "Prince Charming from Cinderella",
+                    "chapter": "Characters"
+                },
+                {
+                    "id": "3C00E8E7-F9F5-4D44-0C3F-F4E2C9F9F8C3",
+                    "name": "Cinderella",
+                    "description": "Cinderella in her ball gown",
+                    "chapter": "Characters"
+                }
+            ]
         }
     ]
-} 
+}
